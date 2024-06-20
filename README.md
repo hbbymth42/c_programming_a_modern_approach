@@ -16,3 +16,8 @@ C Programming: A Modern Approach Examples &amp; Programming Projects from the bo
     - [x] [2-6](chapter-02-projects/project2-6.c)
     - [x] [2-7](chapter-02-projects/project2-7.c)
     - [x] [2-8](chapter-02-projects/project2-8.c)
+
+## Chapter 3
+- Examples:
+    - [x] [Prints int and float values in various formats](chapter-03-examples/tprintf.c)
+    - [x] [Adds two fractions](chapter-03-examples/addfrac.c)
