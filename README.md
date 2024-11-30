@@ -32,3 +32,10 @@ C Programming: A Modern Approach Examples &amp; Programming Projects from the bo
 ## Chapter 4
 - Examples:
     - [x] [Computing a UPC Check Digit](chapter-04-examples/upc.c)
+- Programming Projects:
+    - [x] [4-1](chapter-04-projects/project4-1.c)
+    - [x] [4-2](chapter-04-projects/project4-2.c)
+    - [x] [4-3](chapter-04-projects/project4-3.c)
+    - [ ] [4-4](chapter-04-projects/project4-4.c)
+    - [ ] [4-5](chapter-04-projects/project4-5.c)
+    - [ ] [4-6](chapter-04-projects/project4-6.c)
