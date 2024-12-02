@@ -39,3 +39,8 @@ C Programming: A Modern Approach Examples &amp; Programming Projects from the bo
     - [x] [4-4](chapter-04-projects/project4-4.c)
     - [x] [4-5](chapter-04-projects/project4-5.c)
     - [x] [4-6](chapter-04-projects/project4-6.c)
+
+## Chapter 5
+- Examples:
+    - [x] [Calculates a broker's commission](chapter-05-examples/broker.c)
+    - [x] [Printing a Date in Legal Form](chapter-05-examples/date.c)
