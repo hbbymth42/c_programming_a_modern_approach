@@ -38,7 +38,7 @@ C Programming: A Modern Approach Examples &amp; Programming Projects from the bo
     - [x] [4-3](chapter-04-projects/project4-3.c)
     - [x] [4-4](chapter-04-projects/project4-4.c)
     - [x] [4-5](chapter-04-projects/project4-5.c)
-    - [x] [4-6](chapter-04-projects/project4-6.c)
+    - [x] [3-6](chapter-04-projects/project4-6.c)
 
 ## Chapter 5
 - Examples:
@@ -56,3 +56,9 @@ C Programming: A Modern Approach Examples &amp; Programming Projects from the bo
     - [x] [5-9](chapter-05-projects/project5-9.c)
     - [x] [5-10](chapter-05-projects/project5-10.c)
     - [x] [5-11](chapter-05-projects/project5-11.c)
+
+## Chapter 6
+- Examples:
+    - [x] [Printing a Table of Squares](chapter-06-examples/square.c)
+    - [x] [Summing a Series of Squares](chapter-06-examples/sum.c)
+    - [x] [Calculating the Number of Digits in an Integer](chapter-06-examples/numdigits.c)
